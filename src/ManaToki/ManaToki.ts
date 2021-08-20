@@ -12,7 +12,7 @@ import {
 } from "paperback-extensions-common"
 import {parseChapterDetails, parseChapters, parseHomeUpdates, parseHomeList, parseMangaDetails, parseSearch, parseUpdatedMangas} from "./ManaTokiParser"
 
-const MANATOKI_DOMAIN = 'https://manatoki95.net'
+const MANATOKI_DOMAIN = 'https://manatoki96.net'
 const MANATOKI_COMIC = MANATOKI_DOMAIN + '/comic/'
 const method = 'GET'
 
